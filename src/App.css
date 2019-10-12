@@ -1,0 +1,37 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  height: 80px;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.App-header ul{
+  display: flex;
+  list-style: none;
+}
+
+.App-header ul li{
+  padding: 0 20px;
+}
+
+.main-content a{
+  display: block;
+  background-color: rgb(230, 55, 108);
+  padding: 2rem;
+  margin: 1rem;
+  color: beige;
+  text-decoration: none;
+}
+
+.text-box{
+  padding-top: 2em;
+  max-width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
